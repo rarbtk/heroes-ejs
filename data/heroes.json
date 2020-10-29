@@ -1,0 +1,23 @@
+[
+    {
+        "id" :1,
+        "nombre": "ada",
+        "profesion": "Matemarica e informatica",
+        "pais": "reino unido",
+        "resena": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet dicta ab porro explicabo ex doloribus reiciendis, deserunt" 
+        
+
+    },
+
+    {
+        "id" :2,
+        "nombre": "charles babage",
+        "profesion": "Matematico y cientifico de la computacion",
+        "pais": "reino unido",
+        "resena": "Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum"
+       
+    }
+
+
+
+]
